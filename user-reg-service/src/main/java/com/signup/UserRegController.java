@@ -16,7 +16,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author raja
+ * @author rajas
  *
  */
 @RestController
